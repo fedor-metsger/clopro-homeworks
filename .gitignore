@@ -1,0 +1,7 @@
+.idea/
+.terraform/
+.external_modules/
+.terraform.lock.hcl
+personal.auto.tfvars
+terraform.tfstate
+terraform.tfstate.backup
